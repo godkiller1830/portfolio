@@ -3,7 +3,7 @@ import { FileDown } from 'lucide-react';
 
 export function CV() {
   // Replace with your actual CV URL
-  const cvUrl = 'https://example.com/your-cv.pdf';
+  const cvUrl = 'https://gkmrfoytilmbnnormset.supabase.co/storage/v1/object/sign/my%20storage/MyCV.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJteSBzdG9yYWdlL015Q1YucGRmIiwiaWF0IjoxNzM5MzYyNzU4LCJleHAiOjE3NzA4OTg3NTh9.p3ANOYZeuDzc_zhSchMD8gpZI3ZiEV1U9LQvQtgK7V4';
 
   return (
     <div className="max-w-4xl mx-auto">
