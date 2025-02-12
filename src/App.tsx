@@ -41,7 +41,7 @@ export default function App() {
             <div id="experience" className="min-h-screen py-20"><Experience /></div>
             <div id="projects" className="min-h-screen py-20"><Projects /></div>
             <div id="contact" className="min-h-screen py-20"><Contact /></div>
-            <Footer />
+      
           </main>
         </div>
       </div>
