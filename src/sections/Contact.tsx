@@ -84,7 +84,7 @@ export function Contact() {
                 className="flex items-center text-ocean-300 hover:text-ocean-200 transition-colors duration-200"
               >
                 <Mail size={20} className="mr-2" />
-                your.email@example.com
+                satyanaveenmidatalams@gmail.com
               </a>
               <div className="flex items-center text-gray-300">
                 <MessageSquare size={20} className="mr-2" />
