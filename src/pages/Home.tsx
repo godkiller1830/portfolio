@@ -94,7 +94,7 @@ export function Home() {
             transition={{ delay: 0.6 }}
             className="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto mb-8"
           >
-            {user?.bio || 'Full-stack developer passionate about creating beautiful and functional web applications.'}
+            {user?.bio || 'Full-stack developer passionate about creating beautiful and functional web & mobile applications.'}
           </motion.p>
           
           <motion.div
@@ -106,7 +106,7 @@ export function Home() {
             <motion.a
               whileHover={{ scale: 1.1, y: -5 }}
               whileTap={{ scale: 0.9 }}
-              href="https://github.com/yourusername"
+              href="https://github.com/godkiller1830"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200"
@@ -116,7 +116,7 @@ export function Home() {
             <motion.a
               whileHover={{ scale: 1.1, y: -5 }}
               whileTap={{ scale: 0.9 }}
-              href="https://linkedin.com/in/yourusername"
+              href="www.linkedin.com/in/satya-naveen-midatala-45a034166"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200"
@@ -126,7 +126,7 @@ export function Home() {
             <motion.a
               whileHover={{ scale: 1.1, y: -5 }}
               whileTap={{ scale: 0.9 }}
-              href="mailto:your.email@example.com"
+              href="mailto:satyanaveenmidatalams@gmail.com"
               className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200"
             >
               <Mail size={24} />
